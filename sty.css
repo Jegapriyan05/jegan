@@ -1,0 +1,32 @@
+
+
+
+input{
+    border-style: solid;
+    border-radius: 15px;
+    padding: 20px;
+    
+
+}
+
+.one{
+    background-color:rgba(0,0,0,.5);
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:black;
+    background-image: image(url(bonsai-rock-milky-5120x3413-21130.jpg));
+}
+
+button{
+margin-top: 10px;
+    border-radius: 20px;
+}
+
+a{
+    background-color: black;
+    color:white
+    
+}
